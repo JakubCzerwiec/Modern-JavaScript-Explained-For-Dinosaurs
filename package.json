@@ -1,0 +1,26 @@
+{
+  "name": "modern-javascript-explained-for-dinosaurs",
+  "version": "1.0.0",
+  "description": "Coding along with this article and have some fun with it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakubCzerwiec/Modern-JavaScript-Explained-For-Dinosaurs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakubCzerwiec/Modern-JavaScript-Explained-For-Dinosaurs/issues"
+  },
+  "homepage": "https://github.com/JakubCzerwiec/Modern-JavaScript-Explained-For-Dinosaurs#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
